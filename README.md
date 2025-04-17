@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Sou Emily Castilho Dias<br><br>- 📚 Atualmente estou cursando Sistemas de Informação na FIAP<br>- ⚡ Habilidades: Resolução de Problemas ,Aprendizado contínuo ,Comunicação, Adaptabilidade ente outros</p>
+<p align="left">Sou Emily Castilho Dias<br><br>- 📚 Atualmente estou cursando Sistemas de Informação na FIAP<br>- ⚡ Habilidades: Resolução de Problemas ,Aprendizado contínuo ,Comunicação, Adaptabilidade entre outros</p>
 
 ###
 
